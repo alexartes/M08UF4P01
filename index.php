@@ -19,6 +19,10 @@ and open the template in the editor.
         function AAH_funcio2() {
             
         }
+
+        function AAH_funcio3() {
+            
+        }
         
         ?>
     </body>
