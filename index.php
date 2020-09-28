@@ -25,7 +25,7 @@ and open the template in the editor.
         }
 
         function AAH_especial() {
-            
+            echo 'El meu nom és Àlex Artés Hidalgo';
         }
         ?>
     </body>
