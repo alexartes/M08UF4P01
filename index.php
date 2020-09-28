@@ -23,7 +23,10 @@ and open the template in the editor.
         function AAH_funcio3() {
             
         }
-        
+
+        function AAH_especial() {
+            echo 'El nom del meu company és Álex Jiménez Camacho';
+        }
         ?>
     </body>
 </html>
